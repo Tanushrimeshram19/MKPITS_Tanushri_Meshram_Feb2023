@@ -1,0 +1,37 @@
+<html>
+<body>
+
+Enter the math=<input type="text" id="mat"/><br><br>
+Enter the physic=<input type="text" id="phy"/><br><br>
+Enter the chemistry=<input type="text" id="che"/><br><br>
+
+<input type="button" value="result" onclick="result();"/>
+
+<span id="t">total:</span><br>
+<span id="p">percentage:</span>
+
+</body>
+
+<script language="javascript">
+
+function result()
+{
+
+	var maths,physics,chemistry,total,percentage;
+
+ maths=parseInt(document.getElementById("mat").value);
+ physics=parseInt(document.getElementById("phy").value);
+ chemistry=parseInt(document.getElementById("che").value);
+
+	total=maths+physics+chemistry
+      
+
+document.getElementById("t").innerHTML="total marks="+total;
+	
+	percentage=total/300*100
+document.getElementById("p").innerHTML="total percentage="+percentage;
+}
+</script>
+</html>
+
+

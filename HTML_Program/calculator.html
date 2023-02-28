@@ -1,0 +1,30 @@
+<html>
+<h1 align=center">MKPITS</h1>
+<hr>
+<style>
+#calc{
+width: 250px;
+	padding: 5px;
+	margin: auto;
+}
+
+</style>
+<body>
+  <input id = "calc" type ="text" name = "answer"> <br> <br>
+  <input id='one' type = "button" value = "1" onclick=evalNumber(document.getElementById('one').value) >
+  <input id='two' type = "button" value = "2" onclick=evalNumber(document.getElementById('two').value)>
+  <input id='three' type = "button" value = "3" onclick=evalNumber(document.getElementById('three').value)>
+  <input id='four' type = "button" value = "4" onclick=evalNumber(document.getElementById('four').value)>
+  <input id='plus' type = "button" value = "+" onclick=evalNumber(document.getElementById('plus').value)>
+  <input id='minus' type = "button" value = "-" onclick=evalNumber(document.getElementById('minus').value)>
+  <input id='multiply' type = "button" value = "*" onclick=evalNumber(document.getElementById('multiply').value)>
+  <input id='equal' type = "button" value = "=" onclick=evalNumber(document.getElementById('equal').value)>
+</body>
+<script language="Javascript">
+function evalNumber(num) {
+document.getElementById("calc").innerHTML= document.getElementById('one').value;
+
+
+}
+</script>
+</html>

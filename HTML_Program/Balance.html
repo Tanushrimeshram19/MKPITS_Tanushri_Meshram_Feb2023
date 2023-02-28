@@ -1,0 +1,31 @@
+<html>
+<script language = "Javascript">
+function Deposit()
+{
+var account,init_balance,amount,total_bal;
+account = parseInt(document.getElementById("account_num").value);
+init_balance = parseInt(document.getElementById("initial_bal").value);
+amount = parseInt(document.getElementById("amoun").value);
+total_bal = init_balance + amount;
+document.getElementById("total_balance").innerHTML = "Balance is : " + total_bal;
+}
+function Withdraw()
+{
+var account_num1,init,amount1,total_amount;
+account_num1 = document.getElementById("account_num").value;
+init = document.getElementById("initial_bal").value;
+amount1 = document.getElementById("amoun").value;
+total_amount = init - amount1;45
+document.getElementById("total_balance1").innerHTML = "Balance is : " + total_amount;
+}
+</script>
+<body>
+Account No : <input type = "text" id = "account_num"><br>
+initial balance : <input type = "text" id = "initial_bal"><br>
+amount : <input type = "text" id = "amoun"><br><br>
+<input type = "button" value = "Deposit" onclick="Deposit();">
+<input type = "button" value = "Withdraw" onclick="Withdraw();"><br>
+<span id = "total_balance"></span>
+<span id = "total_balance1"></span>
+</body>
+</html>

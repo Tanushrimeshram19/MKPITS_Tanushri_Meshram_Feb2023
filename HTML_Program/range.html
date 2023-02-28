@@ -1,0 +1,20 @@
+<html>
+<body>
+
+num=<input type="text" id="n1">
+start=<input type="text" id="s1">
+end=<input type="text" id="e1">
+<input type="button",value="check" onclick=checkInRange()">
+</body>
+<script language="javascript">
+var num,start,end;
+num=parseInt(document.getElementById("n1").value);
+start=parseInt(document.getElementById("s1").value);
+end=parseInt(document.getElementById("e1").value);
+if(num>=start && num<=end) {
+alert("n{num} is between range {start}&{end}");
+}
+else{
+alert("num}is outside the range {start} and {end}")
+}
+}

@@ -1,0 +1,28 @@
+<html>
+<script language = "Javascript">
+function student_info()
+{
+var first_name,last_name,email_stud,number_stud;
+first_name = document.getElementById("firstname").value;
+last_name = document.getElementById("lastname").value;
+email_stud = document.getElementById("email").value;
+number_stud = document.getElementById("number").value;
+
+document.getElementById("name").innerHTML = "\nFirst Name : " + first_name;
+document.getElementById("lname").innerHTML = "Last Name : " + last_name;
+document.getElementById("email").innerHTML = "Email : " + email_stud;
+document.getElementById("num").innerHTML = "Mobile Number : " + number_stud;
+}
+</script>
+<body>
+Firstname : <input type = "text" id = "firstname"><br>
+Lastname: <input type = "text" id = "lastname"><br>
+email: <input type = "email" id = "email" pattern=".+@globex\.com"><br>
+mobile-no: <input type = "number" id = "number"><br>
+<input type = "button" value = "SUBMIT" onclick = "student_info();"><br>
+<span id="name"></span>
+<span id="lname"><br> </span>
+<span id="email"><br></span>
+<span id="num"><br></span>
+</body>
+</html>
