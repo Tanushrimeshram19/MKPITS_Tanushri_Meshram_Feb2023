@@ -1,0 +1,23 @@
+<html>
+<body>
+enter username=<input type="text" id="un".value><br>
+enter passward=<input type="text" id="up".value><br>
+<input type="button" value="submit" onclick="check();"/>
+</body>
+
+<script>
+function check()
+{
+var username=document.getElementById("un").value;
+var passward=document.getElementById("up").value;
+if(username=="" && passward=="")
+{
+alert("please enter username or passward");
+}
+else
+{
+alert("welcome user:"+username);
+}
+}
+</script>
+</html>

@@ -1,0 +1,25 @@
+<html>
+<body>
+enter mark1<input type="text" text id="s1"/><br>
+enter mark2<input type="text" text id="s2"/><br>
+enter mark3<input type="text" text id="s3"/><br>
+<input type="button" value="ok" onclick="result()";/><br><br>
+<span id="res1">total</span><br><br>
+<span id="per">percent</span><br><br>
+</body>
+
+
+<script>
+function result()
+{
+var marks=new Array();
+marks[0]=parseInt(document.getElementById("s1").value);
+marks[1]=parseInt(document.getElementById("s2").value);
+marks[2]=parseInt(document.getElementById("s3").value);
+var total=marks[0]+marks[1]+marks[2];
+var percent=parseFloat(total*0.3);
+document.getElementById("res1").innerHTML=total;
+document.getElementById("per").innerHTML=percent;
+}
+</script>
+</html>
