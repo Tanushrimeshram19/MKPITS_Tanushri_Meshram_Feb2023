@@ -1,0 +1,11 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\dispayrowcol\dispayrowcol\bin\Debug\dispayrowcol.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\dispayrowcol\dispayrowcol\bin\Debug\dispayrowcol.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\dispayrowcol\dispayrowcol\bin\Debug\dispayrowcol.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\dispayrowcol\dispayrowcol\obj\Debug\dispayrowcol.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\dispayrowcol\dispayrowcol\obj\Debug\dispayrowcol.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\dispayrowcol\dispayrowcol\obj\Debug\dispayrowcol.Form1.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\dispayrowcol\dispayrowcol\obj\Debug\dispayrowcol.Properties.Resources.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\dispayrowcol\dispayrowcol\obj\Debug\dispayrowcol.csproj.GenerateResource.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\dispayrowcol\dispayrowcol\obj\Debug\dispayrowcol.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\dispayrowcol\dispayrowcol\obj\Debug\dispayrowcol.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\dispayrowcol\dispayrowcol\obj\Debug\dispayrowcol.pdb

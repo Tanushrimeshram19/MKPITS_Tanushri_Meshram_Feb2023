@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\twodimensionarray\twodimensionarray\bin\Debug\twodimensionarray.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\twodimensionarray\twodimensionarray\bin\Debug\twodimensionarray.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\twodimensionarray\twodimensionarray\bin\Debug\twodimensionarray.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\twodimensionarray\twodimensionarray\obj\Debug\twodimensionarray.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\twodimensionarray\twodimensionarray\obj\Debug\twodimensionarray.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\twodimensionarray\twodimensionarray\obj\Debug\twodimensionarray.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\twodimensionarray\twodimensionarray\obj\Debug\twodimensionarray.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\twodimensionarray\twodimensionarray\obj\Debug\twodimensionarray.pdb

@@ -1,0 +1,16 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp16greaternno\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp16greaternno\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp16greaternno\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp16greaternno\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp16greaternno\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp16greaternno\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp16greaternno\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp16greaternno\ConsoleApp17\obj\Debug\ConsoleApp17.pdb

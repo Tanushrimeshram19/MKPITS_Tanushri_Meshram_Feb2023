@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\mul2no\mul2no\bin\Debug\mul2no.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\mul2no\mul2no\bin\Debug\mul2no.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\mul2no\mul2no\bin\Debug\mul2no.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\mul2no\mul2no\obj\Debug\mul2no.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\mul2no\mul2no\obj\Debug\mul2no.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\mul2no\mul2no\obj\Debug\mul2no.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\mul2no\mul2no\obj\Debug\mul2no.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\mul2no\mul2no\obj\Debug\mul2no.pdb

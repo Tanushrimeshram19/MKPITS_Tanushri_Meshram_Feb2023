@@ -1,0 +1,11 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formreversepyramid\formreversepyramid\bin\Debug\formreversepyramid.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formreversepyramid\formreversepyramid\bin\Debug\formreversepyramid.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formreversepyramid\formreversepyramid\bin\Debug\formreversepyramid.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formreversepyramid\formreversepyramid\obj\Debug\formreversepyramid.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formreversepyramid\formreversepyramid\obj\Debug\formreversepyramid.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formreversepyramid\formreversepyramid\obj\Debug\formreversepyramid.Form1.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formreversepyramid\formreversepyramid\obj\Debug\formreversepyramid.Properties.Resources.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formreversepyramid\formreversepyramid\obj\Debug\formreversepyramid.csproj.GenerateResource.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formreversepyramid\formreversepyramid\obj\Debug\formreversepyramid.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formreversepyramid\formreversepyramid\obj\Debug\formreversepyramid.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formreversepyramid\formreversepyramid\obj\Debug\formreversepyramid.pdb

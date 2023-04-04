@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sort\sort\bin\Debug\sort.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sort\sort\bin\Debug\sort.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sort\sort\bin\Debug\sort.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sort\sort\obj\Debug\sort.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sort\sort\obj\Debug\sort.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sort\sort\obj\Debug\sort.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sort\sort\obj\Debug\sort.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sort\sort\obj\Debug\sort.pdb

@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\empfieldandmethod\empfieldandmethod\bin\Debug\empfieldandmethod.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\empfieldandmethod\empfieldandmethod\bin\Debug\empfieldandmethod.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\empfieldandmethod\empfieldandmethod\bin\Debug\empfieldandmethod.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\empfieldandmethod\empfieldandmethod\obj\Debug\empfieldandmethod.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\empfieldandmethod\empfieldandmethod\obj\Debug\empfieldandmethod.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\empfieldandmethod\empfieldandmethod\obj\Debug\empfieldandmethod.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\empfieldandmethod\empfieldandmethod\obj\Debug\empfieldandmethod.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\empfieldandmethod\empfieldandmethod\obj\Debug\empfieldandmethod.pdb

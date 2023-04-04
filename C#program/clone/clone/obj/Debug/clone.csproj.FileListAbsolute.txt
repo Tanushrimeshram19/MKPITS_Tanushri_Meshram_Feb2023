@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\clone\clone\bin\Debug\clone.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\clone\clone\bin\Debug\clone.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\clone\clone\bin\Debug\clone.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\clone\clone\obj\Debug\clone.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\clone\clone\obj\Debug\clone.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\clone\clone\obj\Debug\clone.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\clone\clone\obj\Debug\clone.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\clone\clone\obj\Debug\clone.pdb

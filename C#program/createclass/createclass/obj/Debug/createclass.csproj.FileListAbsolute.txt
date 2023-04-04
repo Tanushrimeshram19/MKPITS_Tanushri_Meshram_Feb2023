@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\createclass\createclass\bin\Debug\createclass.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\createclass\createclass\bin\Debug\createclass.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\createclass\createclass\bin\Debug\createclass.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\createclass\createclass\obj\Debug\createclass.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\createclass\createclass\obj\Debug\createclass.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\createclass\createclass\obj\Debug\createclass.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\createclass\createclass\obj\Debug\createclass.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\createclass\createclass\obj\Debug\createclass.pdb

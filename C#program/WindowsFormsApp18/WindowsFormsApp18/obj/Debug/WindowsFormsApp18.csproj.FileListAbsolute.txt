@@ -1,0 +1,6 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.Form1.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.Properties.Resources.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csproj.GenerateResource.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csproj.CoreCompileInputs.cache

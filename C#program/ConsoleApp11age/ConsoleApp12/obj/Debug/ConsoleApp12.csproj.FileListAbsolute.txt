@@ -1,0 +1,16 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp11age\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp11age\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp11age\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp11age\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp11age\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp11age\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp11age\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp11age\ConsoleApp12\obj\Debug\ConsoleApp12.pdb

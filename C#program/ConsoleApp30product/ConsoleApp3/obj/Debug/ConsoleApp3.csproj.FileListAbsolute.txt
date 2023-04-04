@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

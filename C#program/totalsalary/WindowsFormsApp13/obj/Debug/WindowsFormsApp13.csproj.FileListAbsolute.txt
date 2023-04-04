@@ -1,0 +1,11 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form1.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb

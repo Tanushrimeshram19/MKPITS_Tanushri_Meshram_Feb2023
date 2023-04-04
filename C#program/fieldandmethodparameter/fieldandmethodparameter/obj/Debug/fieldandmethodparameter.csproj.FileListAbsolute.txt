@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\fieldandmethodparameter\fieldandmethodparameter\obj\Debug\fieldandmethodparameter.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\fieldandmethodparameter\fieldandmethodparameter\obj\Debug\fieldandmethodparameter.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\fieldandmethodparameter\fieldandmethodparameter\obj\Debug\fieldandmethodparameter.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\fieldandmethodparameter\fieldandmethodparameter\bin\Debug\fieldandmethodparameter.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\fieldandmethodparameter\fieldandmethodparameter\bin\Debug\fieldandmethodparameter.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\fieldandmethodparameter\fieldandmethodparameter\bin\Debug\fieldandmethodparameter.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\fieldandmethodparameter\fieldandmethodparameter\obj\Debug\fieldandmethodparameter.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\fieldandmethodparameter\fieldandmethodparameter\obj\Debug\fieldandmethodparameter.pdb

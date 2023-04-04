@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb

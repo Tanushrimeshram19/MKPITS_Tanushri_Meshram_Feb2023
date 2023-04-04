@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\productfieldandmethod\productfieldandmethod\bin\Debug\productfieldandmethod.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\productfieldandmethod\productfieldandmethod\bin\Debug\productfieldandmethod.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\productfieldandmethod\productfieldandmethod\bin\Debug\productfieldandmethod.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\productfieldandmethod\productfieldandmethod\obj\Debug\productfieldandmethod.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\productfieldandmethod\productfieldandmethod\obj\Debug\productfieldandmethod.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\productfieldandmethod\productfieldandmethod\obj\Debug\productfieldandmethod.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\productfieldandmethod\productfieldandmethod\obj\Debug\productfieldandmethod.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\productfieldandmethod\productfieldandmethod\obj\Debug\productfieldandmethod.pdb

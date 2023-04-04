@@ -1,0 +1,11 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\combobox1\combobox1\bin\Debug\combobox1.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\combobox1\combobox1\bin\Debug\combobox1.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\combobox1\combobox1\bin\Debug\combobox1.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\combobox1\combobox1\obj\Debug\combobox1.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\combobox1\combobox1\obj\Debug\combobox1.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\combobox1\combobox1\obj\Debug\combobox1.Form1.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\combobox1\combobox1\obj\Debug\combobox1.Properties.Resources.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\combobox1\combobox1\obj\Debug\combobox1.csproj.GenerateResource.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\combobox1\combobox1\obj\Debug\combobox1.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\combobox1\combobox1\obj\Debug\combobox1.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\combobox1\combobox1\obj\Debug\combobox1.pdb

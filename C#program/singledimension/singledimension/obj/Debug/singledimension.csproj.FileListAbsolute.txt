@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singledimension\singledimension\bin\Debug\singledimension.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singledimension\singledimension\bin\Debug\singledimension.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singledimension\singledimension\bin\Debug\singledimension.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singledimension\singledimension\obj\Debug\singledimension.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singledimension\singledimension\obj\Debug\singledimension.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singledimension\singledimension\obj\Debug\singledimension.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singledimension\singledimension\obj\Debug\singledimension.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singledimension\singledimension\obj\Debug\singledimension.pdb

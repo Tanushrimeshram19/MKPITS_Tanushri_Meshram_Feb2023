@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rowcol", "rowcol\rowcol.csproj", "{3443C870-0A5A-4131-8AB8-ABB8869B802F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3443C870-0A5A-4131-8AB8-ABB8869B802F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3443C870-0A5A-4131-8AB8-ABB8869B802F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3443C870-0A5A-4131-8AB8-ABB8869B802F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3443C870-0A5A-4131-8AB8-ABB8869B802F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAF1928E-8E35-4084-A7E5-F9A3D5F8DFF3}
+	EndGlobalSection
+EndGlobal

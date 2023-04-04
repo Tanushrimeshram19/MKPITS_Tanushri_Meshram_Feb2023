@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\nonrepeating\nonrepeating\bin\Debug\nonrepeating.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\nonrepeating\nonrepeating\bin\Debug\nonrepeating.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\nonrepeating\nonrepeating\bin\Debug\nonrepeating.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\nonrepeating\nonrepeating\obj\Debug\nonrepeating.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\nonrepeating\nonrepeating\obj\Debug\nonrepeating.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\nonrepeating\nonrepeating\obj\Debug\nonrepeating.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\nonrepeating\nonrepeating\obj\Debug\nonrepeating.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\nonrepeating\nonrepeating\obj\Debug\nonrepeating.pdb

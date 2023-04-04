@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\fieldandmethoduser\fieldandmethoduser\bin\Debug\fieldandmethoduser.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\fieldandmethoduser\fieldandmethoduser\bin\Debug\fieldandmethoduser.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\fieldandmethoduser\fieldandmethoduser\bin\Debug\fieldandmethoduser.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\fieldandmethoduser\fieldandmethoduser\obj\Debug\fieldandmethoduser.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\fieldandmethoduser\fieldandmethoduser\obj\Debug\fieldandmethoduser.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\fieldandmethoduser\fieldandmethoduser\obj\Debug\fieldandmethoduser.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\fieldandmethoduser\fieldandmethoduser\obj\Debug\fieldandmethoduser.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\fieldandmethoduser\fieldandmethoduser\obj\Debug\fieldandmethoduser.pdb

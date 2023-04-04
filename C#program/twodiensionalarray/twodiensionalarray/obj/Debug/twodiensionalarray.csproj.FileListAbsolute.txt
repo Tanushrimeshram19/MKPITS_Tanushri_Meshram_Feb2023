@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\twodiensionalarray\twodiensionalarray\bin\Debug\twodiensionalarray.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\twodiensionalarray\twodiensionalarray\bin\Debug\twodiensionalarray.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\twodiensionalarray\twodiensionalarray\bin\Debug\twodiensionalarray.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\twodiensionalarray\twodiensionalarray\obj\Debug\twodiensionalarray.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\twodiensionalarray\twodiensionalarray\obj\Debug\twodiensionalarray.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\twodiensionalarray\twodiensionalarray\obj\Debug\twodiensionalarray.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\twodiensionalarray\twodiensionalarray\obj\Debug\twodiensionalarray.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\twodiensionalarray\twodiensionalarray\obj\Debug\twodiensionalarray.pdb

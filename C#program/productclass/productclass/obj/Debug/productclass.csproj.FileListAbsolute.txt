@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\productclass\productclass\bin\Debug\productclass.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\productclass\productclass\bin\Debug\productclass.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\productclass\productclass\bin\Debug\productclass.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\productclass\productclass\obj\Debug\productclass.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\productclass\productclass\obj\Debug\productclass.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\productclass\productclass\obj\Debug\productclass.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\productclass\productclass\obj\Debug\productclass.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\productclass\productclass\obj\Debug\productclass.pdb

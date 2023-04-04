@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sortarray\sortarray\bin\Debug\sortarray.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sortarray\sortarray\bin\Debug\sortarray.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sortarray\sortarray\bin\Debug\sortarray.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sortarray\sortarray\obj\Debug\sortarray.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sortarray\sortarray\obj\Debug\sortarray.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sortarray\sortarray\obj\Debug\sortarray.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sortarray\sortarray\obj\Debug\sortarray.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sortarray\sortarray\obj\Debug\sortarray.pdb

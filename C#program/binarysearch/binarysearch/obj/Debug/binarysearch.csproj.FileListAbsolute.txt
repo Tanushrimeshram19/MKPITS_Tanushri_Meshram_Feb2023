@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\binarysearch\binarysearch\bin\Debug\binarysearch.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\binarysearch\binarysearch\bin\Debug\binarysearch.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\binarysearch\binarysearch\bin\Debug\binarysearch.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\binarysearch\binarysearch\obj\Debug\binarysearch.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\binarysearch\binarysearch\obj\Debug\binarysearch.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\binarysearch\binarysearch\obj\Debug\binarysearch.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\binarysearch\binarysearch\obj\Debug\binarysearch.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\binarysearch\binarysearch\obj\Debug\binarysearch.pdb

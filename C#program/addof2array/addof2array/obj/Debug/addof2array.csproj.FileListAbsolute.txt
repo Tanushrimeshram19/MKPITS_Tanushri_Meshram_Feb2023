@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\addof2array\addof2array\bin\Debug\addof2array.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\addof2array\addof2array\bin\Debug\addof2array.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\addof2array\addof2array\bin\Debug\addof2array.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\addof2array\addof2array\obj\Debug\addof2array.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\addof2array\addof2array\obj\Debug\addof2array.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\addof2array\addof2array\obj\Debug\addof2array.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\addof2array\addof2array\obj\Debug\addof2array.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\addof2array\addof2array\obj\Debug\addof2array.pdb

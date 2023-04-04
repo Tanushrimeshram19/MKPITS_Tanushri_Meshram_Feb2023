@@ -1,0 +1,11 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sub\sub\bin\Debug\sub.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sub\sub\bin\Debug\sub.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sub\sub\bin\Debug\sub.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sub\sub\obj\Debug\sub.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sub\sub\obj\Debug\sub.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sub\sub\obj\Debug\sub.Form1.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sub\sub\obj\Debug\sub.Properties.Resources.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sub\sub\obj\Debug\sub.csproj.GenerateResource.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sub\sub\obj\Debug\sub.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sub\sub\obj\Debug\sub.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\sub\sub\obj\Debug\sub.pdb

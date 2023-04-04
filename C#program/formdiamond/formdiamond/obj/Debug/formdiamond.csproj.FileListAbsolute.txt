@@ -1,0 +1,11 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formdiamond\formdiamond\bin\Debug\formdiamond.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formdiamond\formdiamond\bin\Debug\formdiamond.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formdiamond\formdiamond\bin\Debug\formdiamond.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formdiamond\formdiamond\obj\Debug\formdiamond.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formdiamond\formdiamond\obj\Debug\formdiamond.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formdiamond\formdiamond\obj\Debug\formdiamond.Form1.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formdiamond\formdiamond\obj\Debug\formdiamond.Properties.Resources.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formdiamond\formdiamond\obj\Debug\formdiamond.csproj.GenerateResource.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formdiamond\formdiamond\obj\Debug\formdiamond.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formdiamond\formdiamond\obj\Debug\formdiamond.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\formdiamond\formdiamond\obj\Debug\formdiamond.pdb

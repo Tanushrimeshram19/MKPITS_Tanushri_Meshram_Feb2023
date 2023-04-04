@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\classfieldandmethods\classfieldandmethods\bin\Debug\classfieldandmethods.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\classfieldandmethods\classfieldandmethods\bin\Debug\classfieldandmethods.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\classfieldandmethods\classfieldandmethods\bin\Debug\classfieldandmethods.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\classfieldandmethods\classfieldandmethods\obj\Debug\classfieldandmethods.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\classfieldandmethods\classfieldandmethods\obj\Debug\classfieldandmethods.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\classfieldandmethods\classfieldandmethods\obj\Debug\classfieldandmethods.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\classfieldandmethods\classfieldandmethods\obj\Debug\classfieldandmethods.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\classfieldandmethods\classfieldandmethods\obj\Debug\classfieldandmethods.pdb

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet program\\MKPITS_Tanushri_Meshram_Feb2023\\HTML_Program\\c#programs\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\dotnet program\\MKPITS_Tanushri_Meshram_Feb2023\\C#program\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\dotnet program\\MKPITS_Tanushri_Meshram_Feb2023\\HTML_Program\\c#programs\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "D:\\dotnet program\\MKPITS_Tanushri_Meshram_Feb2023\\C#program\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Tanushri\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet program\\MKPITS_Tanushri_Meshram_Feb2023\\HTML_Program\\c#programs\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\dotnet program\\MKPITS_Tanushri_Meshram_Feb2023\\C#program\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tanushri\\AppData\\Roaming\\NuGet\\NuGet.Config",
