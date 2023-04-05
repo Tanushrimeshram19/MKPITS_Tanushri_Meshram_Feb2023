@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\destructor\destructor\bin\Debug\destructor.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\destructor\destructor\bin\Debug\destructor.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\destructor\destructor\bin\Debug\destructor.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\destructor\destructor\obj\Debug\destructor.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\destructor\destructor\obj\Debug\destructor.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\destructor\destructor\obj\Debug\destructor.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\destructor\destructor\obj\Debug\destructor.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\destructor\destructor\obj\Debug\destructor.pdb

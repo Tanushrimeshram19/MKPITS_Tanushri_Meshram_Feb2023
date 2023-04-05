@@ -1,0 +1,11 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\classcalculator\classcalculator\bin\Debug\classcalculator.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\classcalculator\classcalculator\bin\Debug\classcalculator.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\classcalculator\classcalculator\bin\Debug\classcalculator.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\classcalculator\classcalculator\obj\Debug\classcalculator.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\classcalculator\classcalculator\obj\Debug\classcalculator.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\classcalculator\classcalculator\obj\Debug\classcalculator.Form1.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\classcalculator\classcalculator\obj\Debug\classcalculator.Properties.Resources.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\classcalculator\classcalculator\obj\Debug\classcalculator.csproj.GenerateResource.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\classcalculator\classcalculator\obj\Debug\classcalculator.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\classcalculator\classcalculator\obj\Debug\classcalculator.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\classcalculator\classcalculator\obj\Debug\classcalculator.pdb

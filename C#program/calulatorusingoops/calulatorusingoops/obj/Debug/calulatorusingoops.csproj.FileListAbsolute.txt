@@ -1,0 +1,11 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\calulatorusingoops\calulatorusingoops\bin\Debug\calulatorusingoops.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\calulatorusingoops\calulatorusingoops\bin\Debug\calulatorusingoops.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\calulatorusingoops\calulatorusingoops\bin\Debug\calulatorusingoops.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\calulatorusingoops\calulatorusingoops\obj\Debug\calulatorusingoops.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\calulatorusingoops\calulatorusingoops\obj\Debug\calulatorusingoops.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\calulatorusingoops\calulatorusingoops\obj\Debug\calulatorusingoops.Form1.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\calulatorusingoops\calulatorusingoops\obj\Debug\calulatorusingoops.Properties.Resources.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\calulatorusingoops\calulatorusingoops\obj\Debug\calulatorusingoops.csproj.GenerateResource.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\calulatorusingoops\calulatorusingoops\obj\Debug\calulatorusingoops.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\calulatorusingoops\calulatorusingoops\obj\Debug\calulatorusingoops.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\calulatorusingoops\calulatorusingoops\obj\Debug\calulatorusingoops.pdb

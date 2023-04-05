@@ -1,0 +1,6 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\calculate\calculate\obj\Debug\calculate.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\calculate\calculate\obj\Debug\calculate.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\calculate\calculate\obj\Debug\calculate.Form1.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\calculate\calculate\obj\Debug\calculate.Properties.Resources.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\calculate\calculate\obj\Debug\calculate.csproj.GenerateResource.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\calculate\calculate\obj\Debug\calculate.csproj.CoreCompileInputs.cache

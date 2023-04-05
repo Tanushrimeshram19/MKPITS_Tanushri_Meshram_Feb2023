@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thiseg", "thiseg\thiseg.csproj", "{50570002-C3A3-4543-A447-89159E32E475}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50570002-C3A3-4543-A447-89159E32E475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50570002-C3A3-4543-A447-89159E32E475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50570002-C3A3-4543-A447-89159E32E475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50570002-C3A3-4543-A447-89159E32E475}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF677BC2-F3C8-4EF3-ADF9-A34FDAD3999E}
+	EndGlobalSection
+EndGlobal

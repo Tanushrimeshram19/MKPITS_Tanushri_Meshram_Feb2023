@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\Customer4\Customer4\bin\Debug\Customer4.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\Customer4\Customer4\bin\Debug\Customer4.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\Customer4\Customer4\bin\Debug\Customer4.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\Customer4\Customer4\obj\Debug\Customer4.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\Customer4\Customer4\obj\Debug\Customer4.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\Customer4\Customer4\obj\Debug\Customer4.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\Customer4\Customer4\obj\Debug\Customer4.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\Customer4\Customer4\obj\Debug\Customer4.pdb

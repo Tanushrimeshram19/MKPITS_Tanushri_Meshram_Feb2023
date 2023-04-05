@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\order3\order3\bin\Debug\order3.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\order3\order3\bin\Debug\order3.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\order3\order3\bin\Debug\order3.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\order3\order3\obj\Debug\order3.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\order3\order3\obj\Debug\order3.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\order3\order3\obj\Debug\order3.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\order3\order3\obj\Debug\order3.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\order3\order3\obj\Debug\order3.pdb
