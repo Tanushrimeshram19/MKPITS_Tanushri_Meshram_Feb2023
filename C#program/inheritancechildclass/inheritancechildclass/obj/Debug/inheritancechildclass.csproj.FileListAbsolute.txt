@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\inheritancechildclass\inheritancechildclass\bin\Debug\inheritancechildclass.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\inheritancechildclass\inheritancechildclass\bin\Debug\inheritancechildclass.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\inheritancechildclass\inheritancechildclass\bin\Debug\inheritancechildclass.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\inheritancechildclass\inheritancechildclass\obj\Debug\inheritancechildclass.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\inheritancechildclass\inheritancechildclass\obj\Debug\inheritancechildclass.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\inheritancechildclass\inheritancechildclass\obj\Debug\inheritancechildclass.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\inheritancechildclass\inheritancechildclass\obj\Debug\inheritancechildclass.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\inheritancechildclass\inheritancechildclass\obj\Debug\inheritancechildclass.pdb

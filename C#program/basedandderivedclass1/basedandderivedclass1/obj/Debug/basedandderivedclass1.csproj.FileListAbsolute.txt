@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\basedandderivedclass1\basedandderivedclass1\bin\Debug\basedandderivedclass1.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\basedandderivedclass1\basedandderivedclass1\bin\Debug\basedandderivedclass1.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\basedandderivedclass1\basedandderivedclass1\bin\Debug\basedandderivedclass1.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\basedandderivedclass1\basedandderivedclass1\obj\Debug\basedandderivedclass1.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\basedandderivedclass1\basedandderivedclass1\obj\Debug\basedandderivedclass1.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\basedandderivedclass1\basedandderivedclass1\obj\Debug\basedandderivedclass1.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\basedandderivedclass1\basedandderivedclass1\obj\Debug\basedandderivedclass1.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\basedandderivedclass1\basedandderivedclass1\obj\Debug\basedandderivedclass1.pdb

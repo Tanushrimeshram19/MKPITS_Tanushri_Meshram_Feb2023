@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\inheitancebaseclass\inheitancebaseclass\bin\Debug\inheitancebaseclass.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\inheitancebaseclass\inheitancebaseclass\bin\Debug\inheitancebaseclass.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\inheitancebaseclass\inheitancebaseclass\bin\Debug\inheitancebaseclass.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\inheitancebaseclass\inheitancebaseclass\obj\Debug\inheitancebaseclass.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\inheitancebaseclass\inheitancebaseclass\obj\Debug\inheitancebaseclass.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\inheitancebaseclass\inheitancebaseclass\obj\Debug\inheitancebaseclass.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\inheitancebaseclass\inheitancebaseclass\obj\Debug\inheitancebaseclass.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\inheitancebaseclass\inheitancebaseclass\obj\Debug\inheitancebaseclass.pdb

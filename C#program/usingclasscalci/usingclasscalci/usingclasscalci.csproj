@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C0CC71EE-2A04-4311-A49A-E3766211455D}</ProjectGuid>
+    <ProjectGuid>{B456EF15-720E-4C09-96FA-91DC81645070}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>usingclasscalci</RootNamespace>
     <AssemblyName>usingclasscalci</AssemblyName>
@@ -46,7 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class2.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
