@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "createbasedclass", "createbasedclass\createbasedclass.csproj", "{DF4114CA-5953-4BE8-9657-1A470E078D49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF4114CA-5953-4BE8-9657-1A470E078D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF4114CA-5953-4BE8-9657-1A470E078D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF4114CA-5953-4BE8-9657-1A470E078D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF4114CA-5953-4BE8-9657-1A470E078D49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52EAA15E-25C2-4782-9656-29B81FE8BBF9}
+	EndGlobalSection
+EndGlobal

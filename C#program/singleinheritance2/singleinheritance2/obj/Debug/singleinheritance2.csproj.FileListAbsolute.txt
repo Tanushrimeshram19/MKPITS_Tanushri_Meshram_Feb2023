@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singleinheritance2\singleinheritance2\bin\Debug\singleinheritance2.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singleinheritance2\singleinheritance2\bin\Debug\singleinheritance2.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singleinheritance2\singleinheritance2\bin\Debug\singleinheritance2.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singleinheritance2\singleinheritance2\obj\Debug\singleinheritance2.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singleinheritance2\singleinheritance2\obj\Debug\singleinheritance2.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singleinheritance2\singleinheritance2\obj\Debug\singleinheritance2.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singleinheritance2\singleinheritance2\obj\Debug\singleinheritance2.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singleinheritance2\singleinheritance2\obj\Debug\singleinheritance2.pdb

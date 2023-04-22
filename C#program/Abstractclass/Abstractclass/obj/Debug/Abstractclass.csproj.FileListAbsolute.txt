@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\Abstractclass\Abstractclass\bin\Debug\Abstractclass.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\Abstractclass\Abstractclass\bin\Debug\Abstractclass.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\Abstractclass\Abstractclass\bin\Debug\Abstractclass.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\Abstractclass\Abstractclass\obj\Debug\Abstractclass.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\Abstractclass\Abstractclass\obj\Debug\Abstractclass.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\Abstractclass\Abstractclass\obj\Debug\Abstractclass.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\Abstractclass\Abstractclass\obj\Debug\Abstractclass.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\Abstractclass\Abstractclass\obj\Debug\Abstractclass.pdb

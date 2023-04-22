@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\encapsulationstud\encapsulationstud\bin\Debug\encapsulationstud.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\encapsulationstud\encapsulationstud\bin\Debug\encapsulationstud.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\encapsulationstud\encapsulationstud\bin\Debug\encapsulationstud.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\encapsulationstud\encapsulationstud\obj\Debug\encapsulationstud.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\encapsulationstud\encapsulationstud\obj\Debug\encapsulationstud.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\encapsulationstud\encapsulationstud\obj\Debug\encapsulationstud.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\encapsulationstud\encapsulationstud\obj\Debug\encapsulationstud.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\encapsulationstud\encapsulationstud\obj\Debug\encapsulationstud.pdb

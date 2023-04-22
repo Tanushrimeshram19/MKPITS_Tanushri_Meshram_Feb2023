@@ -1,0 +1,6 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\bank\bank\obj\Debug\bank.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\bank\bank\obj\Debug\bank.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\bank\bank\obj\Debug\bank.Form1.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\bank\bank\obj\Debug\bank.Properties.Resources.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\bank\bank\obj\Debug\bank.csproj.GenerateResource.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\bank\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache

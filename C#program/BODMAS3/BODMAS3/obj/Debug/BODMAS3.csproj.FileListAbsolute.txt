@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\BODMAS3\BODMAS3\bin\Debug\BODMAS3.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\BODMAS3\BODMAS3\bin\Debug\BODMAS3.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\BODMAS3\BODMAS3\bin\Debug\BODMAS3.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\BODMAS3\BODMAS3\obj\Debug\BODMAS3.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\BODMAS3\BODMAS3\obj\Debug\BODMAS3.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\BODMAS3\BODMAS3\obj\Debug\BODMAS3.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\BODMAS3\BODMAS3\obj\Debug\BODMAS3.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\BODMAS3\BODMAS3\obj\Debug\BODMAS3.pdb

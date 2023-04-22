@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\recursionfactnumber\recursionfactnumber\bin\Debug\recursionfactnumber.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\recursionfactnumber\recursionfactnumber\bin\Debug\recursionfactnumber.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\recursionfactnumber\recursionfactnumber\bin\Debug\recursionfactnumber.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\recursionfactnumber\recursionfactnumber\obj\Debug\recursionfactnumber.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\recursionfactnumber\recursionfactnumber\obj\Debug\recursionfactnumber.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\recursionfactnumber\recursionfactnumber\obj\Debug\recursionfactnumber.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\recursionfactnumber\recursionfactnumber\obj\Debug\recursionfactnumber.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\recursionfactnumber\recursionfactnumber\obj\Debug\recursionfactnumber.pdb

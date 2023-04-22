@@ -1,0 +1,11 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\rowcol\rowcol\bin\Debug\rowcol.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\rowcol\rowcol\bin\Debug\rowcol.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\rowcol\rowcol\bin\Debug\rowcol.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\rowcol\rowcol\obj\Debug\rowcol.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\rowcol\rowcol\obj\Debug\rowcol.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\rowcol\rowcol\obj\Debug\rowcol.Form1.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\rowcol\rowcol\obj\Debug\rowcol.Properties.Resources.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\rowcol\rowcol\obj\Debug\rowcol.csproj.GenerateResource.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\rowcol\rowcol\obj\Debug\rowcol.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\rowcol\rowcol\obj\Debug\rowcol.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\rowcol\rowcol\obj\Debug\rowcol.pdb

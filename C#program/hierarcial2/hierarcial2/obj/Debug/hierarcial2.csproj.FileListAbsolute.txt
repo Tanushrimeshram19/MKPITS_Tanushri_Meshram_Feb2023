@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\hierarcial2\hierarcial2\bin\Debug\hierarcial2.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\hierarcial2\hierarcial2\bin\Debug\hierarcial2.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\hierarcial2\hierarcial2\bin\Debug\hierarcial2.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\hierarcial2\hierarcial2\obj\Debug\hierarcial2.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\hierarcial2\hierarcial2\obj\Debug\hierarcial2.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\hierarcial2\hierarcial2\obj\Debug\hierarcial2.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\hierarcial2\hierarcial2\obj\Debug\hierarcial2.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\hierarcial2\hierarcial2\obj\Debug\hierarcial2.pdb

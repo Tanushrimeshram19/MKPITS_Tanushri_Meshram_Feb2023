@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\interface3\interface3\bin\Debug\interface3.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\interface3\interface3\bin\Debug\interface3.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\interface3\interface3\bin\Debug\interface3.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\interface3\interface3\obj\Debug\interface3.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\interface3\interface3\obj\Debug\interface3.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\interface3\interface3\obj\Debug\interface3.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\interface3\interface3\obj\Debug\interface3.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\interface3\interface3\obj\Debug\interface3.pdb

@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singlelevelinheritance\singlelevelinheritance\bin\Debug\singlelevelinheritance.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singlelevelinheritance\singlelevelinheritance\bin\Debug\singlelevelinheritance.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singlelevelinheritance\singlelevelinheritance\bin\Debug\singlelevelinheritance.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singlelevelinheritance\singlelevelinheritance\obj\Debug\singlelevelinheritance.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singlelevelinheritance\singlelevelinheritance\obj\Debug\singlelevelinheritance.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singlelevelinheritance\singlelevelinheritance\obj\Debug\singlelevelinheritance.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singlelevelinheritance\singlelevelinheritance\obj\Debug\singlelevelinheritance.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\singlelevelinheritance\singlelevelinheritance\obj\Debug\singlelevelinheritance.pdb
