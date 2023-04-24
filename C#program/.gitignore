@@ -1,8 +1,8 @@
-.suo
-.vsidv
-.lock
-.sln
-.App.config
-.csproj
+*.suo
+*.vsidv
+*.lock
+*.sln
+*.App.config
+*.csproj
 */bin.
 */obj.
