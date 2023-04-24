@@ -1,0 +1,11 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\checkeven\checkeven\bin\Debug\checkeven.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\checkeven\checkeven\bin\Debug\checkeven.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\checkeven\checkeven\bin\Debug\checkeven.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\checkeven\checkeven\obj\Debug\checkeven.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\checkeven\checkeven\obj\Debug\checkeven.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\checkeven\checkeven\obj\Debug\checkeven.Form1.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\checkeven\checkeven\obj\Debug\checkeven.Properties.Resources.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\checkeven\checkeven\obj\Debug\checkeven.csproj.GenerateResource.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\checkeven\checkeven\obj\Debug\checkeven.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\checkeven\checkeven\obj\Debug\checkeven.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\checkeven\checkeven\obj\Debug\checkeven.pdb

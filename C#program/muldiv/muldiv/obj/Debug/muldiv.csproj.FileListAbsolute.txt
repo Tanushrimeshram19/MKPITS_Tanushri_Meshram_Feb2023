@@ -1,0 +1,11 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\muldiv\muldiv\bin\Debug\muldiv.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\muldiv\muldiv\bin\Debug\muldiv.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\muldiv\muldiv\bin\Debug\muldiv.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\muldiv\muldiv\obj\Debug\muldiv.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\muldiv\muldiv\obj\Debug\muldiv.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\muldiv\muldiv\obj\Debug\muldiv.Form1.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\muldiv\muldiv\obj\Debug\muldiv.Properties.Resources.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\muldiv\muldiv\obj\Debug\muldiv.csproj.GenerateResource.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\muldiv\muldiv\obj\Debug\muldiv.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\muldiv\muldiv\obj\Debug\muldiv.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\muldiv\muldiv\obj\Debug\muldiv.pdb

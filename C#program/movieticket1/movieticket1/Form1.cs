@@ -47,7 +47,7 @@ namespace movieticket1
             comboBox3.Items.Clear();
             switch (comboBox2.Text)
             {
-                case "INOX Cinemas (Jaswant Tuli Mal":
+                case "INOX Cinemas (Jaswant Tuli Mal)":
                     comboBox3.Items.Add("12.00 PM");
                     comboBox3.Items.Add("03.00 PM");
                     textBox1.Text = "120";
@@ -83,22 +83,31 @@ namespace movieticket1
         private void button1_Click(object sender, EventArgs e)
         {
             Movie_Ticket mt = null;
-            if (radioButton1.Checked)
+             if(radioButton1.Checked)
             {
-                mt = new Online_Booking(comboBox1.Text, comboBox2.Text, comboBox3.Text,
-                Convert.ToInt32(numericUpDown1.Value), Convert.ToSingle(textBox1.Text));
+                mt=new Online_Booking(comboBox1.Text,comboBox2.Text,comboBox3.Text,Convert.ToInt32(numericUpDown1.Value), Convert.ToInt32(textBox1.Text));
 
             }
-            else if (radioButton2.Checked)
+             else if(radioButton2.Checked)
             {
-                mt = new BoxOffice(comboBox1.Text, comboBox2.Text, comboBox3.Text,
-                Convert.ToInt32(numericUpDown1.Value), Convert.ToSingle(textBox1.Text));
+                mt = new BoxOffice(comboBox1.Text, comboBox2.Text, comboBox3.Text, Convert.ToInt32(numericUpDown1.Value), Convert.ToInt32(textBox1.Text));
 
             }
-            label7.Text = mt.Calculate_Ticket_Price();
+            string Total_price = mt.Calculate_Ticket_Price();
+            label7.Text = Total_price;
         }
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
 
         }

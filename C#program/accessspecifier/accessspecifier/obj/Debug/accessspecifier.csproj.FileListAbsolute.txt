@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\accessspecifier\accessspecifier\bin\Debug\accessspecifier.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\accessspecifier\accessspecifier\bin\Debug\accessspecifier.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\accessspecifier\accessspecifier\bin\Debug\accessspecifier.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\accessspecifier\accessspecifier\obj\Debug\accessspecifier.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\accessspecifier\accessspecifier\obj\Debug\accessspecifier.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\accessspecifier\accessspecifier\obj\Debug\accessspecifier.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\accessspecifier\accessspecifier\obj\Debug\accessspecifier.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\accessspecifier\accessspecifier\obj\Debug\accessspecifier.pdb

@@ -41,7 +41,7 @@ namespace nonrepeating
             else
             {
                 Console.WriteLine("There are no non-repeating characters in the string.");
-                
+                Console.ReadLine();
             }
         }
     }

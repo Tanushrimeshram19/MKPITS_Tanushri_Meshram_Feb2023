@@ -16,6 +16,7 @@ namespace sort
             {
                 Console.WriteLine(num[i] + "\t");
                 Console.ReadLine();
+
             }
         }
     }

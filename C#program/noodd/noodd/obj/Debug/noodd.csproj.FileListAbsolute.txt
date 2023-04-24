@@ -1,0 +1,11 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\noodd\noodd\bin\Debug\noodd.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\noodd\noodd\bin\Debug\noodd.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\noodd\noodd\bin\Debug\noodd.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\noodd\noodd\obj\Debug\noodd.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\noodd\noodd\obj\Debug\noodd.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\noodd\noodd\obj\Debug\noodd.Form1.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\noodd\noodd\obj\Debug\noodd.Properties.Resources.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\noodd\noodd\obj\Debug\noodd.csproj.GenerateResource.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\noodd\noodd\obj\Debug\noodd.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\noodd\noodd\obj\Debug\noodd.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\noodd\noodd\obj\Debug\noodd.pdb

@@ -1,0 +1,11 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\addsubmul\addsubmul\bin\Debug\addsubmul.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\addsubmul\addsubmul\bin\Debug\addsubmul.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\addsubmul\addsubmul\bin\Debug\addsubmul.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\addsubmul\addsubmul\obj\Debug\addsubmul.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\addsubmul\addsubmul\obj\Debug\addsubmul.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\addsubmul\addsubmul\obj\Debug\addsubmul.Form1.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\addsubmul\addsubmul\obj\Debug\addsubmul.Properties.Resources.resources
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\addsubmul\addsubmul\obj\Debug\addsubmul.csproj.GenerateResource.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\addsubmul\addsubmul\obj\Debug\addsubmul.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\addsubmul\addsubmul\obj\Debug\addsubmul.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\addsubmul\addsubmul\obj\Debug\addsubmul.pdb

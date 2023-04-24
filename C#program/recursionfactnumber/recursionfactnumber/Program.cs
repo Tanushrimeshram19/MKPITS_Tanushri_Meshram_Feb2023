@@ -33,7 +33,7 @@ namespace recursionfactnumber
 
             return num * factorial(num - 1);
         }
-        Console.ReadKey();
+        Console.ReadLine();
     }
 }
 }

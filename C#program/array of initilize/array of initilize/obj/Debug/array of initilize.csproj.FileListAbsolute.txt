@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\array of initilize\array of initilize\bin\Debug\array of initilize.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\array of initilize\array of initilize\bin\Debug\array of initilize.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\array of initilize\array of initilize\bin\Debug\array of initilize.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\array of initilize\array of initilize\obj\Debug\array of initilize.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\array of initilize\array of initilize\obj\Debug\array of initilize.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\array of initilize\array of initilize\obj\Debug\array of initilize.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\array of initilize\array of initilize\obj\Debug\array of initilize.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\array of initilize\array of initilize\obj\Debug\array of initilize.pdb

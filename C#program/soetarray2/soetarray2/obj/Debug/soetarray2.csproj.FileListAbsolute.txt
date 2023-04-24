@@ -1,0 +1,8 @@
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\soetarray2\soetarray2\bin\Debug\soetarray2.exe.config
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\soetarray2\soetarray2\bin\Debug\soetarray2.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\soetarray2\soetarray2\bin\Debug\soetarray2.pdb
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\soetarray2\soetarray2\obj\Debug\soetarray2.csproj.AssemblyReference.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\soetarray2\soetarray2\obj\Debug\soetarray2.csproj.SuggestedBindingRedirects.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\soetarray2\soetarray2\obj\Debug\soetarray2.csproj.CoreCompileInputs.cache
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\soetarray2\soetarray2\obj\Debug\soetarray2.exe
+D:\dotnet program\MKPITS_Tanushri_Meshram_Feb2023\C#program\soetarray2\soetarray2\obj\Debug\soetarray2.pdb
