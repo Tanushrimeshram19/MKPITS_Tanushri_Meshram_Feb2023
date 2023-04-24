@@ -4,5 +4,5 @@
 *.sln
 *.App.config
 *.csproj
-*/bin.
-*/obj.
+bin/
+obj/
