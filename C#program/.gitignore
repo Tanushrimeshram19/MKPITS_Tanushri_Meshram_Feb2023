@@ -1,8 +1,6 @@
-*.suo
-*.vsidv
-*.lock
-*.sln
-*.App.config
-*.csproj
 bin/
 obj/
+Properties/
+.vs/
+*.config
+*.resx
