@@ -20,6 +20,8 @@ namespace sealedprg
         {
             employee emp = new employee();
             emp.showdata();
+            Console.ReadLine();
+
         }
     }
 }
