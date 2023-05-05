@@ -1,0 +1,21 @@
+------------default-----------------
+CREATE TABLE Geeks (ID int NOT NULL,Name varchar(255),Age int,Location varchar(255) default 'Noida');
+insert into Geeks VALUES (4, 'tanu', 23, 'Delhi');
+insert into Geeks(ID,Name,Age) VALUES (5,'prachi', 27);
+insert into Geeks(ID,Name,Age)Values(6,'mona',20);
+insert into Geeks(ID,Name,Age)Values(7,'karishma',29)
+insert into Geeks(ID,Name,Age)Values(8,'anjali',30)
+select*from geeks
+
+-----------not null-------------
+CREATE TABLE Student(ID int NOT NULL,NAME varchar(10) NOT NULL,ADDRESS varchar(20));
+insert into student values(1,'tanu','nagpur')
+insert into student values(2,'anjali','kalmeshwar')
+insert into student values(3,'monali','savner')
+insert into student values(4,'karishma','mankapur')
+insert into student values(5,'prachi','umred')
+insert into student values(6,'mona','pune')
+select*from student
+
+------------unique------------
+
