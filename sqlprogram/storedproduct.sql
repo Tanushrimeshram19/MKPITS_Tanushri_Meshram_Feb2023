@@ -1,14 +1,14 @@
-create table product2 (name varchar(25) ,id int,quantity int,price int,orderdate int)
-insert into product2 values('computer',1,7,50000,12-3-2021)
-insert into product2 values('freeze',2,5,25000,19-2-2020)
-insert into product2 values ('tv',3,6,5000,3-3-2000)
-insert into product2 values('tablet',4,8,40000,5-7-2021)
-insert into product2 values('laptop',5,10,54000,6-5-2023)
-insert into product2 values('mobile',6,9,25000,13-7-2021)
+create table product3 (name varchar(25) ,id int,quantity int,price int,orderdate int)
+insert into product3 values('computer',1,7,50000,12-3-2021)
+insert into product3 values('freeze',2,5,25000,19-2-2020)
+insert into product3 values ('tv',3,6,5000,3-3-2000)
+insert into product3 values('tablet',4,8,40000,5-7-2021)
+insert into product3 values('laptop',5,10,54000,6-5-2023)
+insert into product3 values('mobile',6,9,25000,13-7-2021)
 
 
 SELECT name,price FROM
-product2 ORDER BY name;
+product3 ORDER BY name;
 
 create procedure prod1
 as
@@ -21,7 +21,7 @@ exec prod
 
 CREATE PROCEDURE uspProductList
 AS BEGIN SELECT name,
-price FROM product2
+price FROM product3
 ORDER BY name;
 END;
 
@@ -30,7 +30,7 @@ EXECUTE sp name;
 alter procedure prod1
 as
 begin
-select name,price from product2
+select name,price from product3
 order by price
 end;
 
@@ -41,7 +41,7 @@ AS BEGIN
 SELECT name,
 price
 FROM
-product2
+product3
 ORDER BY
 price
 END;
@@ -63,14 +63,14 @@ CREATE PROCEDURE uspFindProducts
 AS BEGIN
 SELECT name,
 price FROM
-product2
+product3
 ORDER BY
 price;
 END;
 create proc prod3(@minprice as decimal)
 as
 begin
-select * from product2
+select * from product3
 where price > @minprice
 order by price
 end;
@@ -80,7 +80,7 @@ exec prod3 5000
 create proc pp2(@pn as varchar(20))
 as
 begin
-select * from product2
+select * from product3
 where name=@pn
 end
 
@@ -90,7 +90,7 @@ exec pp2 'computer'
 create proc prod5(@pname as varchar(20))
 as
 begin
-select * from product2
+select * from product3
 where name = @pname
 order by name
 end;
@@ -102,7 +102,7 @@ create proc prod6(@pname as varchar(20),@p as
 decimal)
 as
 begin
-select * from product2
+select * from product3
 where name = @pname
 and price >= @p
 order by name
@@ -118,7 +118,7 @@ SELECT
 name,
 price
 FROM
-product2
+product3
 WHERE
 price >= @min_list_price
 ORDER BY
@@ -131,7 +131,7 @@ create proc prod7(@minp as decimal,@maxp as
 decimal)
 as
 begin
-select * from product2
+select * from product3
 
 where price > @minp and price < @maxp
 order by name
@@ -149,7 +149,7 @@ SELECT
 name,
 price
 FROM
-product2
+product3
 WHERE
 price >= @min_list_price AND
 price <= @max_list_price
@@ -164,7 +164,7 @@ create proc prod8(@minp as decimal,@maxp as
 decimal,@pn as varchar(max))
 as
 begin
-select * from product2
+select * from product3
 where price > @minp and price < @maxp
 and name=@pn
 order by name
@@ -175,7 +175,7 @@ create proc prod11(@minp as decimal=100,@maxp
 as decimal=null,@pn as varchar(max))
 as
 begin
-select * from product2
+select * from product3
 where
 price >= @minp AND
 
@@ -191,7 +191,7 @@ exec prod11 @minp=500,@pn='e'
 create proc sp_inprod
 as
 begin
-insert into product2
+insert into product3
 values('freeze',2,5,25000,19-2-2020);
 end
 
@@ -200,7 +200,7 @@ varchar(20),
 @pr as decimal,@q as int)
 as
 begin
-update product2 set
+update product3 set
 name=@pn,price=@pr,quantity=@q
 where id=@pid
 end
@@ -209,7 +209,7 @@ exec sp_inprod2 'mobile',6,9,25000
 select * from product2
 
 exec sp_inprod
-select * from product2
+select * from product3
 
 
 create proc sp_inprod3(@pid as int,@pn as
@@ -222,4 +222,4 @@ where id=@pid or name=@pn
 end
 
 exec sp_inprod3 23,'computer'
-select * from product2
+select * from product3

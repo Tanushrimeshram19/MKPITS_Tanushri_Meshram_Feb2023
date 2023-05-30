@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fendal5", "fendal5\fendal5.csproj", "{6A970C01-22CB-4D6A-A64C-BA51AF4642BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A970C01-22CB-4D6A-A64C-BA51AF4642BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A970C01-22CB-4D6A-A64C-BA51AF4642BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A970C01-22CB-4D6A-A64C-BA51AF4642BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A970C01-22CB-4D6A-A64C-BA51AF4642BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5A00C94-8EFA-4CCA-98EB-536EDAD45EA1}
+	EndGlobalSection
+EndGlobal
