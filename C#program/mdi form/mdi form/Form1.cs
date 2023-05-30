@@ -86,5 +86,10 @@ namespace mdi_form
         {
 
         }
+
+        private void arrangeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
