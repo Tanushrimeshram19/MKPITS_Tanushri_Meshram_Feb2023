@@ -1,4 +1,4 @@
-﻿using PROJECT_C.Project1;
+﻿using PROJECT_C;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
