@@ -19,8 +19,10 @@
             <br />
             <strong>MKPITS SOLUTION<br />
             SITABARDI<br />
-            NAGPUR</strong><br />
-&nbsp;
+            NAGPUR<br />
+            </strong>&nbsp;
+            <asp:Image ID="Image1" runat="server" ImageUrl="~/Microsoft logo.png" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="Home.aspx">Home</asp:HyperLink>
 &nbsp;&nbsp;&nbsp;
             <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="About.aspx">About Us</asp:HyperLink>

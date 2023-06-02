@@ -70,6 +70,7 @@
     <Content Include="about.aspx" />
     <Content Include="contact.aspx" />
     <Content Include="Home.aspx" />
+    <Content Include="Microsoft logo.png" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
   </ItemGroup>
