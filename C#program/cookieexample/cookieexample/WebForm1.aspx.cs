@@ -20,7 +20,7 @@ namespace cookieexample
         {
             HttpCookie cookie1 = new HttpCookie("cook");
             cookie1.Values.Add("username",TextBox1.Text);
-          
+            cookie1.Values.Add("email", TextBox2.Text);
             Response.Cookies.Add(cookie1);
             Label1.Text = "Temporary cookie added to client machine";
         }
@@ -31,7 +31,9 @@ namespace cookieexample
             if(cookie1 != null )
             {
                 string uname = cookie1.Values["username"].ToString();
+                string email= cookie1.Values["email"].ToString();
                 Label1.Text = "username:" + uname;
+                Label2.Text = email;
             }
             else
             {
@@ -61,13 +63,13 @@ namespace cookieexample
 
         protected void Button4_Click1(object sender, EventArgs e)
         {
-            HttpCookie cookie12 = Request.Cookies["cook1"];
+            HttpCookie cookie12 = Request.Cookies["cookie1"];
             if (cookie12 != null )
             {
                 string uname = cookie12.Values["username"].ToString();
-                string uemail = cookie12.Values["email"].ToString();
+                string email = cookie12.Values["email"].ToString();
                 Label1.Text = "username:" + uname;
-                Label2.Text = "email:" + uemail;
+                Label2.Text = "email:" + email;
             }
             else
             {
