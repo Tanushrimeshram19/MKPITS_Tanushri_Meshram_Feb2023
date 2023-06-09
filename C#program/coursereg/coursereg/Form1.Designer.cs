@@ -78,6 +78,8 @@
             this.groupBox1.Controls.Add(this.textBox1);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.groupBox2);
+            this.groupBox1.Controls.Add(this.label5);
+            this.groupBox1.Controls.Add(this.label4);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft YaHei UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(39, 75);
             this.groupBox1.Name = "groupBox1";
@@ -183,11 +185,12 @@
             // label3
             // 
             this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft YaHei", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(58, 359);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(46, 16);
+            this.label3.Size = new System.Drawing.Size(73, 23);
             this.label3.TabIndex = 3;
-            this.label3.Text = "Nation";
+            this.label3.Text = "Country";
             // 
             // comboBox1
             // 
@@ -200,11 +203,13 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(60, 401);
+            this.label4.Font = new System.Drawing.Font("Microsoft YaHei UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(19, 328);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(38, 16);
+            this.label4.Size = new System.Drawing.Size(51, 23);
             this.label4.TabIndex = 5;
             this.label4.Text = "State";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // comboBox2
             // 
@@ -217,9 +222,10 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(58, 439);
+            this.label5.Font = new System.Drawing.Font("Microsoft YaHei UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(19, 362);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(29, 16);
+            this.label5.Size = new System.Drawing.Size(41, 23);
             this.label5.TabIndex = 7;
             this.label5.Text = "City";
             // 
@@ -244,7 +250,7 @@
             this.groupBox4.Font = new System.Drawing.Font("Microsoft YaHei UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox4.Location = new System.Drawing.Point(483, 87);
             this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(359, 242);
+            this.groupBox4.Size = new System.Drawing.Size(359, 265);
             this.groupBox4.TabIndex = 9;
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "Fee  Details";
@@ -260,7 +266,7 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(168, 43);
+            this.textBox2.Location = new System.Drawing.Point(183, 43);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(120, 29);
             this.textBox2.TabIndex = 1;
@@ -276,7 +282,7 @@
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(168, 93);
+            this.textBox3.Location = new System.Drawing.Point(183, 93);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(120, 29);
             this.textBox3.TabIndex = 3;
@@ -292,7 +298,7 @@
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(168, 143);
+            this.textBox4.Location = new System.Drawing.Point(183, 143);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(120, 29);
             this.textBox4.TabIndex = 5;
@@ -308,9 +314,9 @@
             // 
             // dateTimePicker1
             // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(133, 189);
+            this.dateTimePicker1.Location = new System.Drawing.Point(168, 189);
             this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(200, 29);
+            this.dateTimePicker1.Size = new System.Drawing.Size(185, 29);
             this.dateTimePicker1.TabIndex = 7;
             // 
             // button1
@@ -337,14 +343,12 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(890, 493);
+            this.ClientSize = new System.Drawing.Size(890, 511);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.comboBox3);
-            this.Controls.Add(this.label5);
             this.Controls.Add(this.comboBox2);
-            this.Controls.Add(this.label4);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.groupBox1);
