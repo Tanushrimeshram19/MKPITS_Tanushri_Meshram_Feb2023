@@ -23,6 +23,8 @@
             <br />
             <br />
             <asp:Button ID="Button5" runat="server" OnClick="Button5_Click" Text="Button" />
+&nbsp;&nbsp;
+            <asp:Button ID="Button6" runat="server" OnClick="Button6_Click" Text="Button" />
             <br />
             <br />
         </div>

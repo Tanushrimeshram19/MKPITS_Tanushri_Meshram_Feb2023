@@ -4,6 +4,7 @@
         Register yourself</p>
     <table style="width: 100%; border-collapse: collapse">
         <tr>
+
             <td style="width: 241px">Username</td>
             <td>
                 <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>

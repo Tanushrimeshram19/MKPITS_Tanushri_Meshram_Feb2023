@@ -42,7 +42,13 @@ namespace serverobject
         protected void Button5_Click(object sender, EventArgs e)
         {
             string name = Server.UrlEncode("John Saounder");
-            Response.Redirect("http://localhost/code/calendar.aspx?name=" + name);
+            Response.Redirect("webform3.aspx?name+name");
+        }
+
+        protected void Button6_Click(object sender, EventArgs e)
+        {
+            string name = Server.UrlEncode("tanu meshram");
+            Response.Redirect("webform3.aspx?name=" + name);
         }
     }
 }
