@@ -34,26 +34,26 @@ namespace TrustprojectB
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-
-            str = "insert into Department_MAster values(@Department_Name)";
+            str = "insert into vendor_MAster values(@vendor_Name)";
             SqlCommand cmd = new SqlCommand(str, con);
-            cmd.Parameters.AddWithValue("@Department_Name", TextBox1.Text);
+            cmd.Parameters.AddWithValue("@vendor_Name", TextBox2.Text);
 
             con.Open();
             cmd.ExecuteNonQuery();
             con.Close();
             Label1.Text = "record inserted";
-            TextBox1.Text = ""; ;
-            TextBox1.Focus();
+            TextBox2.Text = ""; ;
+            TextBox2.Focus();
+
 
         }
 
         protected void Button2_Click(object sender, EventArgs e)
         {
-            
-            str = "delete from Department_Master where Department_Name=@Department_Name";
+
+            str = "delete from  vendor_Master where vendor_Name=@vendor_Name";
             SqlCommand cmd = new SqlCommand(str, con);
-            cmd.Parameters.AddWithValue("@Department_Name", TextBox1.Text);
+            cmd.Parameters.AddWithValue("@vendor_Name", TextBox1.Text);
 
             con.Open();
             cmd.ExecuteNonQuery();
@@ -66,10 +66,10 @@ namespace TrustprojectB
 
         protected void Button3_Click(object sender, EventArgs e)
         {
-           
-            str = "update Department_MAster set department_name=@Department_Name";
+
+            str = "update vendor_MAster set vendor_name=@vendor_Name";
             SqlCommand cmd = new SqlCommand(str, con);
-            cmd.Parameters.AddWithValue("@Department_Name", TextBox1.Text);
+            cmd.Parameters.AddWithValue("@vendor_Name", TextBox1.Text);
 
             con.Open();
             cmd.ExecuteNonQuery();

@@ -31,9 +31,10 @@ namespace TrustprojectB
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            str = "insert into vendor_MAster values(@vendor_Name)";
+           
+            str = "insert into Department_MAster values(@Department_Name)";
             SqlCommand cmd = new SqlCommand(str, con);
-            cmd.Parameters.AddWithValue("@vendor_Name", TextBox1.Text);
+            cmd.Parameters.AddWithValue("@Department_Name", TextBox1.Text);
 
             con.Open();
             cmd.ExecuteNonQuery();
@@ -41,27 +42,16 @@ namespace TrustprojectB
             Label1.Text = "record inserted";
             TextBox1.Text = ""; ;
             TextBox1.Focus();
+
         }
 
         protected void Button2_Click(object sender, EventArgs e)
         {
-            str = "update vendor_MAster set vendor_name=@vendor_Name";
+          
+            
+            str = "delete from Department_Master where Department_Name=@Department_Name";
             SqlCommand cmd = new SqlCommand(str, con);
-            cmd.Parameters.AddWithValue("@vendor_Name", TextBox1.Text);
-
-            con.Open();
-            cmd.ExecuteNonQuery();
-            con.Close();
-            Label1.Text = "record updated";
-            TextBox1.Text = "";
-            TextBox1.Focus();
-        }
-
-        protected void Button3_Click(object sender, EventArgs e)
-        {
-            str = "delete from  vendor_Master where vendor_Name=@vendor_Name";
-            SqlCommand cmd = new SqlCommand(str, con);
-            cmd.Parameters.AddWithValue("@vendor_Name", TextBox1.Text);
+            cmd.Parameters.AddWithValue("@Department_Name", TextBox1.Text);
 
             con.Open();
             cmd.ExecuteNonQuery();
@@ -71,13 +61,32 @@ namespace TrustprojectB
             TextBox1.Focus();
         }
 
+        protected void Button3_Click(object sender, EventArgs e)
+        {
+           
+         
+            str = "update Department_MAster set department_name=@Department_Name";
+            SqlCommand cmd = new SqlCommand(str, con);
+            cmd.Parameters.AddWithValue("@Department_Name", TextBox1.Text);
+
+            con.Open();
+            cmd.ExecuteNonQuery();
+            con.Close();
+            Label1.Text = "record updated";
+            TextBox1.Text = "";
+            TextBox1.Focus();
+        }
+
         protected void Button4_Click(object sender, EventArgs e)
         {
-            str = "select * from vendor_Master where vendor_Name=@vendor_Name";
+            
+            str = "select * from department_Master where department_id=@department_id";
             da = new SqlDataAdapter(str, con);
-            da.SelectCommand.Parameters.AddWithValue("@vendor_Name", TextBox1.Text);
-            da.Fill(ds, "vendor_Master");
-            TextBox1.Text = ds.Tables["vendor_Master"].Rows[0].ItemArray[0].ToString();
+            da.SelectCommand.Parameters.AddWithValue("@Department_id", TextBox1.Text);
+            da.Fill(ds, "department_Master");
+            TextBox2.Text = ds.Tables["department_Master"].Rows[0].ItemArray[2].ToString();
+
+
         }
     }
 }
