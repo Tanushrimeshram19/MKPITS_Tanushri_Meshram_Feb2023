@@ -48,7 +48,7 @@
         </p>
         <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:Button ID="Button1" runat="server" Text="Save" />
+            <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Save" />
         </p>
         <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
     </form>
