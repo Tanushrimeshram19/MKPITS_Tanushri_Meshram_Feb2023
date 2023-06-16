@@ -23,13 +23,13 @@
         &nbsp;</p>
     <p>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Button" />
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Save" />
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button2" runat="server" Text="Button" />
+        <asp:Button ID="Button2" runat="server" Text="modify" OnClick="Button2_Click" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button3" runat="server" Text="Button" />
+        <asp:Button ID="Button3" runat="server" Text="Delete" OnClick="Button3_Click" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button4" runat="server" Text="Button" />
+        <asp:Button ID="Button4" runat="server" Text="Search" OnClick="Button4_Click" />
     </p>
     <p>
         <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>

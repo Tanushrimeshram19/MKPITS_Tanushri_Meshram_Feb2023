@@ -9,7 +9,7 @@ using System.Data.SqlClient;
 
 namespace storedlibrary
 {
-    internal static class DBConnection
+    public  static class DBConnection
     {
         public static SqlConnection con;
         public static SqlConnection getConnection()

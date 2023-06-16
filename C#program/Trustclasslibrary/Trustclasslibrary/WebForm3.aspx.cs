@@ -24,8 +24,8 @@ namespace Trustclasslibrary
         protected void Button2_Click(object sender, EventArgs e)
         {
             string res = VendorClass.updateVendor_Mast(TextBox2.Text, Convert.ToInt32(TextBox1.Text));
-            
-           
+
+
             Label1.Text = res;
         }
 
