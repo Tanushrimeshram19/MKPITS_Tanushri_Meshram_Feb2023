@@ -61,11 +61,16 @@ Become a Meesho seller and grow your business across India
 border: dashed 2px #04AFEF; background-color: #FFFFFF">
 <tr>
 <td align="center">
-<asp:Image ID="Image1" ImageUrl='<%# Bind("ImageName", "~/image/{0}") %>' runat="server"
+    <a href='<%# Eval("ProductId","productdetails.aspx?productid={0}") %>'>
+
+
+
+<asp:Image ID="Image1" ImageUrl='<%# Bind("imagename", "~/image/{0}") %>' runat="server"
 
 Height="100"
 
 Width="100" />
+        </a>
 
 </td>
 </tr>
