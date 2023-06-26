@@ -1,0 +1,58 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="text-center">
+    <h1 class="display-4">Welcome To Student</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div
+<h2>Index </h2>
+@{
+    string Username="Tanu";
+    int subject1=90;
+    int subject2=90;
+    int subject3 = 88;
+    int total = subject1 + subject2 + subject3;
+    float per = (float)(total / 300.0f) * 100.0f;
+    }
+    <p>Student Name:@@Username</p>
+     <p>Student Marks:@total</p>
+     <p>Student Percentage:@per</p>
+@{
+    string grade = "first";
+    <p>Student gradde:@grade</p>
+}
+<p>Date.Time.Now </p>
+<p>@DateTime.IsLeapYear(2016)</p>
+<p>Last week this time: @(DateTime.Now - TimeSpan.FromDays(7))</p>
+@{
+var joe = new Person("Tanushri", 21);
+}
+<p>Age:@(joe.Age)</p>
+<p>Name:@(joe.Name)</p>
+
+@{
+    string[] people = {"tanu","karishma","tanmay","anjali","ashish" };
+}
+
+@for (var i = 0; i < people.Length; i++)
+{
+    var person = people[i];
+    <text>Name: @person <br /></text>
+}
+
+@{ var value = 500; 
+      if (value % 2 == 0)
+{
+      <p>The value was even.</p>
+}
+
+else
+{
+     <p>The value was odd.</p>
+}
+}
+
+
+

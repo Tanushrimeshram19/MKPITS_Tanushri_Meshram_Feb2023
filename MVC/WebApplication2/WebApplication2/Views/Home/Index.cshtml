@@ -1,0 +1,85 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@{
+    var username = "admin";
+    var pass = "admin";
+}
+
+@if (username == "admin" && pass == "admin")
+{
+    <p>login successful</p>
+}
+else
+{
+    <p> invalid username or password</p>
+}
+
+       @* Agelimit*@
+
+  @{
+         var agelimit = 19;
+    }
+
+     @if (agelimit < 18)
+    {
+
+    <p>you are eligible for vote</p>
+    }
+    else
+   {
+    <p>you are not eligible for vote</p>
+    }
+
+@{
+    var per = 16;
+}
+
+@if (per >= 85)
+{
+    <p>grade : distinction</p>
+}
+else if (per >= 50 && per < 50)
+{
+    <p> grade : first</p>
+}
+else
+{
+    <p>grade : fail</p>
+}
+
+@{
+    var people = new Person[]
+    {
+new Person("tanu", 21),
+new Person("ashish",25),
+
+    };
+}
+
+@{
+    double[] num = { 8,3,1,7,2,5,0,1,4,2 };
+}
+
+     @*Foreeach*@
+@foreach (var n in num)
+{
+    <p> num : @n</p>
+}
+
+@{
+    string[] name = { "tanu","karishma","tanmay","monali","anjali","ashish","swapnil" };
+}
+
+@foreach (var n in name)
+{
+    <p> name : @n</p>
+}
+
+    

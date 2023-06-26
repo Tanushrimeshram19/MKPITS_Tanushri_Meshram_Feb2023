@@ -1,0 +1,42 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "index";
+}
+
+<h2>calculate </h2>
+@model helperex2add.Models.Calculatormodel
+
+@using (Html.BeginForm("Index", "Calculatormodel", FormMethod.Post))
+{
+    <h1> addition form</h1>
+
+    <b> enter number 1 </b> @Html.TextBoxFor(m => m.num1, new
+{
+@Value = "Enter Num1",
+@class = "red",
+
+})
+
+    <br />
+    <br />
+    <b> enter number 2 </b> @Html.TextBoxFor(m => m.num2, new
+{
+@Value = "Enter Num2",
+@class = "red",
+
+})
+
+
+    <br />
+    <br />
+    <input type="submit" value="submit" />
+}
+<hr />
+<h3> calculation results :</h3>
+result : @ViewBag.result
+<br />
+
+<br />
+
