@@ -1,0 +1,22 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model helperextextbox.Models.UserModel
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+    <b>Want Additional Benefit: </b>
+    <br />
+    <span>Tea: </span> @Html.CheckBoxFor(m => m.Tea, true)
+    <span>  Loundry: </span> @Html.CheckBoxFor(m => m.Loundry, false)
+    <span>  Breakfast: </span> @Html.CheckBoxFor(m => m.Breakfast, false)
+}
+
+<br />
+Tea:@ViewBag.Tea
+<br />
+Loundry:@ViewBag.Loundry
+<br />
+Breakfast:@ViewBag.Breakfast
+
+

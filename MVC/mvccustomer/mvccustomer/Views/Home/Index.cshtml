@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+@model mvccustomer.Models.Customer
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+    <h5>Bank Account</h5>
+    <br />
+    <b>Name:</b>
+    
+    
+    @Html.TextBoxFor(m=>m.Name)
+    <br />
+    <br />
+
+    
+    <b>Amount</b>
+    @Html.TextBoxFor(m=>m.Amount)
+    <br />
+    <br/>
+    <b>Deposite</b>
+
+    @Html.RadioButtonFor(m=>m.Acttype,"Deposite")
+    <b>Withdraw</b>
+
+    @Html.RadioButtonFor(m=>m.Acttype,"Withdraw")
+    <br />
+    <br/>
+    <input type="submit" value="Ok" />
+    <br/>
+}
+
+<b>Balance Details</b>
+<br />
+
+<b>Balance  is=</b>
+<b/>
+@ViewBag.res

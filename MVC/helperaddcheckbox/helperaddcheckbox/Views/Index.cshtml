@@ -1,0 +1,36 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@model helperaddcheckbox.Models.UserModel
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+
+    <b>Want calculation: </b>
+    <br />
+    <span>number 1: </span> @Html.TextBoxFor(m => m.number1)
+    <br />
+    <span>number 2: </span> @Html.TextBoxFor(m => m.number2)
+    <span>add: </span> @Html.CheckBoxFor(m => m.add, true)
+    <span> | substract: </span> @Html.CheckBoxFor(m => m.substract, false)
+    <span> | multiply: </span> @Html.CheckBoxFor(m => m.multiply, false)
+    <br />
+    <input type="submit" value="ok" />
+
+}
+
+<h4>calculation result</h4>
+<b>addition : </b>@ViewBag.result1
+<br />
+<b>substraction: </b>@ViewBag.result2
+<br />
+<b>multiplication: </b>@ViewBag.result3
