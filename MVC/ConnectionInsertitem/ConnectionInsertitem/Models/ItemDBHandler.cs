@@ -47,6 +47,7 @@ namespace ConnectionInsertitem.Models
             return iList;
         }
         public bool InsertItem(ItemModel iList)
+ 
         {
             connection();
             string query = "INSERT INTO itemlist VALUES('" + iList.Name + "','" + iList.Category + "'," + iList.Price + ")";
